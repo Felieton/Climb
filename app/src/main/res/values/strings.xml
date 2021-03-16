@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Project</string>
+    <string name="menu_climb">Climb</string>
+    <string name="menu_altimeter">Altimeter</string>
+    <string name="menu_records">Records</string>
+    <string name="menu_info">Info</string>
+    <string name="menu_descr">Stairs and mountains</string>
+    <string name="alti_text_under">You can always aim higher!</string>
+    <string name="around">~1m</string>
+    <string name="lowest">Lowest</string>
+    <string name="highest">Highest</string>
+    <string name="duration">Duration</string>
+    <string name="start">Start</string>
+    <string name="records">Records</string>
+    <string name="stop">Stop</string>
+    <string name="timer">00:00:00</string>
+    <string name="calories">Calories</string>
+    <string name="lowest_label">Lowest:</string>
+    <string name="highest_label">Highest:</string>
+    <string name="duration_label">Duration:</string>
+    <string name="calories_label">Calories burnt:</string>
+    <string name="date_label">Date:</string>
+    <string name="sensors">Sensors</string>
+    <string name="sensors_content">This app requires a pressure sensor to work properly, because it
+    computes altitude solely on the basis of pressure.</string>
+    <string name="calories_content">You burn about 0.17 calories for every step you climb and every
+        stair descended burns about 0.05 calories on average. The sensor is very sensitive and
+        registers altitude shifts every second, having that in mind, yuu should use this app
+    only if u are moving, because if not, it will save some extra calories on your account, and
+    you do not want to cheat yourself.</string>
+    <string name="general">General</string>
+    <string name="general_content">The app uses standard atmospheric pressure at 0 amsl, which may
+    result in it showing inaccurate altitude, but the altitude change is highly accurate.</string>
+    <string name="fun">Have fun!</string>
+</resources>
