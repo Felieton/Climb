@@ -1,5 +1,5 @@
 # Climb - Altitude tracker for Android
-![logo](https://user-images.githubusercontent.com/42720598/111349452-6ba7e300-8681-11eb-9b68-a79bc6af9769.png)  
+![image](https://user-images.githubusercontent.com/42720598/111349687-a6aa1680-8681-11eb-8a7e-94b0936ef033.png)
 *Climb logo*
 
 Climb is an Android app written in Java, that works on basis of pressure sensor. Climb allows you to measure your altitude, to make a climb, and measure its highest and lowest point as well as time of the climb. Records are stored in SQLite database.
