@@ -7,4 +7,4 @@ Climb is an Android app written in Java, that works on basis of pressure sensor.
 
 I've created a simple app landing page to display main features of the app using a free template, you can check it out - [here](https://mystifying-mcnulty-aaf102.netlify.app/)!
 
-*This project was created between December 2020 and January 2021*
+*This project was created between December 2020 and January 2021* 
